@@ -1,4 +1,6 @@
-# Face-Detection
+# Face-😷-Detection
+
+This project was a group work.
 
 Phase 1:
 
